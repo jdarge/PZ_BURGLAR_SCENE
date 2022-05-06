@@ -1,0 +1,4 @@
+Challenge_EN = {
+    Challenge_BurglarScene_name = "Burglar Scene",
+    Challenge_BurglarScene_desc = "Fuck immersion, I barely can RP in bed. <LINE><LINE> If you want custom settings, make a sandbox save setting labled: "BSChallenge"",
+}
